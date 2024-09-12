@@ -1,0 +1,26 @@
+{
+  "name": "gnesis-snippets",
+  "displayName": "Gnesis Snippets",
+  "description": "Snippets para las utilidades en el sistema Gnesis",
+  "version": "1.0.0",
+  "publisher": "Luis Ardón",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/gnesis-snippets.json" 
+      }
+    ]
+  },
+  "icon": "image/icon.png",
+  "repository": {
+    "url": "https://github.com/lardon1630/gnesis-snippets.git"
+  }
+}
