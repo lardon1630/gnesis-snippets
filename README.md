@@ -45,4 +45,4 @@ Esta extensión está bajo la Licencia MIT. Ver el archivo [LICENSE](./LICENSE) 
 
 ---
 
-¡Gracias por usar Gnesis Snippets! Si tienes alguna sugerencia o encuentras un problema, por favor, abre un [issue](https://github.com/lardon1630/gnesis-snippets.git/issues) en nuestro repositorio de GitHub.
+¡Gracias por usar Gnesis Snippets! Si tienes alguna sugerencia o encuentras un problema, por favor, abre un [issue](https://github.com/lardon1630/gnesis-snippets/issues) en nuestro repositorio de GitHub.
